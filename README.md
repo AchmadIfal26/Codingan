@@ -4,7 +4,7 @@
 Proyek ini bertujuan untuk memprediksi harga bawang putih di Surabaya menggunakan metode Multiplicative Holt-Winters (MHW) dan Brown’s Weighted Exponential Moving Average (B-WEMA). Selain itu, penelitian juga mencakup prediksi harga bawang merah dengan menggunakan metode yang sama. Penelitian ini menjelaskan pentingnya memprediksi harga bawang putih di Surabaya dan alasan memilih metode MHW dan B-WEMA sebagai metode analisis.
 
 ## Pengumpulan Data
-Data harga bawang putih dan bawang merah di Surabaya dikumpulkan dari berbagai sumber, termasuk pedagang lokal, pasar tradisional, dan data statistik pemerintah. Data ini mencakup rentang waktu yang mencukupi untuk analisis, yang kemudian diproses dan disiapkan untuk analisis lanjutan.
+Data harga bawang putih dan bawang merah di Surabaya dikumpulkan dari web : https://www.bi.go.id/hargapangan. Data ini mencakup rentang waktu yang mencukupi untuk analisis, yang kemudian diproses dan disiapkan untuk analisis lanjutan.
 
 ## Metode Analisis
 Metode analisis yang digunakan dalam penelitian ini adalah Multiplicative Holt-Winters (MHW) dan Brown’s Weighted Exponential Moving Average (B-WEMA). Kedua metode ini dipilih karena kemampuannya dalam menangani pola musiman dan tren dalam data harga, yang sering terjadi dalam pasar bawang putih dan merah.
